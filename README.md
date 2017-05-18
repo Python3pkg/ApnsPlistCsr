@@ -1,3 +1,6 @@
+## Travis CI 
+[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/Python3pkg/ApnsPlistCsr)
+
 # Introduction
 
 In order to push notifications to Apple devices belonging to client accounts,
